@@ -1,74 +1,38 @@
-# E-commerce Data Entry & Automation
-Project Overview
+# E-commerce Data Entry, Cleaning & Dashboarding (Excel)
+**Project Overview**
 
-This project focuses on automating e-commerce data entry and data management workflows to improve accuracy, consistency, and efficiency. It demonstrates how raw product, pricing, and inventory data can be cleaned, validated, and transformed into structured, analysis-ready datasets using automation techniques.
+This project demonstrates end-to-end e-commerce data entry, cleaning, analysis, and dashboarding using Microsoft Excel. The entire workflow — from raw data preparation to interactive dashboards — was completed exclusively in Excel using advanced spreadsheet features.
 
-The project is designed to reduce manual effort, minimize data entry errors, and support scalable handling of large e-commerce product catalogs.
+The project focuses on improving data accuracy, structuring large product datasets, and creating interactive dashboards for insight generation without using external programming tools.
 
-# Objectives
+**Objectives**
 
-Automate repetitive e-commerce data entry tasks
+Perform accurate e-commerce data entry and management
 
-Ensure data accuracy, consistency, and completeness
+Clean and standardize raw product, pricing, and inventory data
 
-Clean and standardize raw product and inventory data
+Analyze structured datasets using Excel-based techniques
 
-Prepare structured datasets for reporting and analysis
+Build interactive dashboards for business insights
 
-# Workflow
+**Workflow**
 
-Ingest raw product, pricing, and inventory data (CSV / spreadsheet formats)
+Entered and consolidated raw e-commerce product and sales data
 
-Perform data cleaning and formatting
+Cleaned and formatted data using Excel functions and data tools
 
-Apply validation checks to detect missing or inconsistent values
+Removed inconsistencies, duplicates, and missing values
 
-Automate bulk updates and data entry processes
+Created Pivot Tables to summarize key metrics
 
-Generate clean, structured datasets ready for analysis or visualization
+Added Slicers for dynamic filtering and interactivity
 
-# Tools & Technologies
+Designed an interactive Excel dashboard for insight visualization
 
-Excel / Google Sheets
+**Outcomes**
 
-Python (for automation and preprocessing)
+Improved data accuracy and consistency through structured cleaning
 
-CSV file handling
+Enabled dynamic exploration of e-commerce metrics
 
-Basic SQL (optional, for querying structured data)
-
-# Key Features
-
-Automated data entry and update workflows
-
-Data validation and error reduction
-
-Standardized product catalog structure
-
-Improved efficiency compared to manual processing
-
-# Outcomes
-
-Reduced manual data entry effort through automation
-
-Improved data quality and consistency
-
-Created analysis-ready datasets suitable for dashboards and reporting
-
-# Skills Demonstrated
-
-Data Cleaning & Preprocessing
-
-Automation using Python and spreadsheets
-
-Data Validation & Quality Checks
-
-E-commerce data management
-
-# Future Enhancements
-
-Integration with databases for real-time updates
-
-Advanced validation and anomaly detection
-
-Dashboard integration for monitoring data quality metrics
+Delivered a fully interactive Excel dashboard for decision support
